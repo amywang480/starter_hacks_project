@@ -1,0 +1,101 @@
+.page {
+    border: 15px outset mediumturquoise;
+}
+
+.logo { 
+    margin-left: 500px;
+    width: 500px;
+    height: 250px;
+}
+
+.student {
+    margin-left: 100px;
+    width: 140%;
+    height: 400px;
+}
+
+.card-body1 {
+    margin-left: 200px;
+}
+
+.card-title1 {
+    font-size: 60;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 450;
+}
+
+.card-text1 {
+    font-size: 20;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.exec {
+    margin-left: 90px;
+    width: 140%;
+    height: 400px;
+}
+
+.card-body2 {
+    margin-left: 350px;
+}
+
+.card-title2 {
+    font-size: 60;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 450;
+}
+
+.card-text2 {
+    font-size: 20;
+    font-family: 'Work Sans', sans-serif;
+}
+.btn-stu{
+    background-color: blue;
+    border: 1px solid black;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 12px;
+    font-size: 26px;
+    font-family: 'Work Sans', sans-serif;
+    opacity: 0.5;
+    transition: 0.3s;
+    cursor: pointer;
+    margin-bottom: 100px;
+}
+
+.btn-stu:hover {
+    text-decoration: none;
+    opacity: 0.8;
+    color: white;
+    -webkit-transform: scale(1.05);
+        -ms-transform: scale(1.05);
+        transform: scale(1.05);
+}
+
+.btn-exec{
+    background-color: blue;
+    border: 1px solid black;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 12px;
+    font-size: 26px;
+    font-family: 'Work Sans', sans-serif;
+    opacity: 0.5;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.btn-exec:hover {
+    text-decoration: none;
+    opacity: 0.8;
+    color: white;
+    -webkit-transform: scale(1.05);
+        -ms-transform: scale(1.05);
+        transform: scale(1.05);
+}
